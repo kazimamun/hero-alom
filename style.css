@@ -1,0 +1,43 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    width: 900px;
+}
+.nav ul{
+    width: 300px;
+   margin-left: auto;
+   display: block;
+}
+.nav ul li{
+    list-style: none;
+    float: left;
+    padding-left: 10px;
+}
+.nav ul li a{
+    text-decoration: none;
+}
+.top-banner{
+    display: block;
+}
+.half{
+    width: 50%;
+    float: left;
+}
+.half img{
+    max-width: 100%;
+}
+.top-banner h1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.colorful{
+    color: orangered;
+}
+.text-me{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: darkorange;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
