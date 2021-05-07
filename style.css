@@ -41,3 +41,42 @@ body{
     color: white;
     font-weight: bold;
 }
+.download{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 5px;
+}
+.project{
+    margin-bottom: 200px;
+}
+.project h1{
+    font-size: 50px;
+    text-align: center;
+}
+.latest{
+    color: tomato;
+}
+.lastet-work .three-time{
+    width: 27%;
+    float: left;
+    margin-right: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 5px 5px lightgray;
+}
+
+.lastet-work .three-time img{
+    max-width: 100%;
+}
+.inq {
+    background: url('resorces/images/inquiry-bg.png');
+    background-size: cover;
+    height: 200px;
+    margin: auto;
+    width: 50%;
+    background-repeat: no-repeat;
+}
